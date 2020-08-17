@@ -24,7 +24,8 @@
        </td>
        <td>
          <a
-           href="edit_customer.php?id=<?php echo $customer['id']?>">Edit</a>
+           href="edit_customer.php?id=<?php echo $customer['id']?>">Edit
+         </a>
        </td>
        <td>
          <a
